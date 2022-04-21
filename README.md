@@ -1,2 +1,3 @@
-# Making a micro parking system using spring
-# *for study only*
+# Parking
+Making a micro parking system using spring
+*for study only*
